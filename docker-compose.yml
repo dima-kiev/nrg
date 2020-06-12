@@ -1,0 +1,4 @@
+backend:
+  build: nrg/
+  ports:
+    - 9999:8080
